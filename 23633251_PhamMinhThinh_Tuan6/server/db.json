@@ -1,0 +1,106 @@
+{
+  "phones": [
+    {
+      "id": "1",
+      "name": "Điện Thoại Vsmart Joy 3 - Hàng chính hãng",
+      "price": 1790000,
+      "oldPrice": 1790000,
+      "rating": 5,
+      "reviewCount": 828,
+      "supplier": "Tiki Tradding",
+      "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+      "colors": [
+        "silver",
+        "red",
+        "black",
+        "blue"
+      ],
+      "defaultColor": "blue"
+    },
+    {
+      "id": "2",
+      "name": "Điện Thoại Vsmart Live 4 - Hàng chính hãng",
+      "price": 3990000,
+      "oldPrice": 4290000,
+      "rating": 4,
+      "reviewCount": 512,
+      "supplier": "Tiki Tradding",
+      "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+      "colors": [
+        "silver",
+        "red",
+        "black",
+        "blue"
+      ],
+      "defaultColor": "blue"
+    },
+    {
+      "id": "3",
+      "name": "Điện Thoại Vsmart Star 5 - Hàng chính hãng",
+      "price": 1290000,
+      "oldPrice": 1490000,
+      "rating": 4,
+      "reviewCount": 204,
+      "supplier": "Tiki Tradding",
+      "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+      "colors": [
+        "silver",
+        "red",
+        "black",
+        "blue"
+      ],
+      "defaultColor": "red"
+    },
+    {
+      "id": "4",
+      "name": "Điện Thoại Vsmart Active 3 - Hàng chính hãng",
+      "price": 2190000,
+      "oldPrice": 2490000,
+      "rating": 4,
+      "reviewCount": 336,
+      "supplier": "Tiki Tradding",
+      "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+      "colors": [
+        "silver",
+        "red",
+        "black",
+        "blue"
+      ],
+      "defaultColor": "black"
+    },
+    {
+      "id": "5",
+      "name": "Điện Thoại Vsmart Aris Pro - Hàng chính hãng",
+      "price": 4490000,
+      "oldPrice": 4990000,
+      "rating": 5,
+      "reviewCount": 97,
+      "supplier": "Tiki Tradding",
+      "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+      "colors": [
+        "silver",
+        "red",
+        "black",
+        "blue"
+      ],
+      "defaultColor": "silver"
+    },
+    {
+      "id": "6",
+      "name": "Điện Thoại Vsmart Bee 3 - Hàng chính hãng",
+      "price": 990000,
+      "oldPrice": 1190000,
+      "rating": 3,
+      "reviewCount": 415,
+      "supplier": "Tiki Tradding",
+      "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+      "colors": [
+        "silver",
+        "red",
+        "black",
+        "blue"
+      ],
+      "defaultColor": "blue"
+    }
+  ]
+}
